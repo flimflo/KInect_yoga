@@ -1,0 +1,18 @@
+c:\users\valadez\documents\visual studio 2015\Projects\Kinect_yoga\Kinect_yoga\bin\Debug\Kinect_yoga.exe.config
+C:\Users\Valadez\documents\visual studio 2015\Projects\Kinect_yoga\Kinect_yoga\bin\Debug\Kinect_yoga.exe
+C:\Users\Valadez\documents\visual studio 2015\Projects\Kinect_yoga\Kinect_yoga\bin\Debug\Kinect_yoga.pdb
+C:\Users\Valadez\documents\visual studio 2015\Projects\Kinect_yoga\Kinect_yoga\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Valadez\documents\visual studio 2015\Projects\Kinect_yoga\Kinect_yoga\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Valadez\documents\visual studio 2015\Projects\Kinect_yoga\Kinect_yoga\obj\Debug\Kinect_yoga.csprojResolveAssemblyReference.cache
+C:\Users\Valadez\documents\visual studio 2015\Projects\Kinect_yoga\Kinect_yoga\obj\Debug\MainWindow.g.cs
+C:\Users\Valadez\documents\visual studio 2015\Projects\Kinect_yoga\Kinect_yoga\obj\Debug\App.g.cs
+C:\Users\Valadez\documents\visual studio 2015\Projects\Kinect_yoga\Kinect_yoga\obj\Debug\Kinect_yoga_MarkupCompile.cache
+C:\Users\Valadez\documents\visual studio 2015\Projects\Kinect_yoga\Kinect_yoga\obj\Debug\Kinect_yoga_MarkupCompile.lref
+C:\Users\Valadez\documents\visual studio 2015\Projects\Kinect_yoga\Kinect_yoga\obj\Debug\MainWindow.baml
+C:\Users\Valadez\documents\visual studio 2015\Projects\Kinect_yoga\Kinect_yoga\obj\Debug\Kinect_yoga.g.resources
+C:\Users\Valadez\documents\visual studio 2015\Projects\Kinect_yoga\Kinect_yoga\obj\Debug\Kinect_yoga.Properties.Resources.resources
+C:\Users\Valadez\documents\visual studio 2015\Projects\Kinect_yoga\Kinect_yoga\obj\Debug\Kinect_yoga.csproj.GenerateResource.Cache
+C:\Users\Valadez\documents\visual studio 2015\Projects\Kinect_yoga\Kinect_yoga\obj\Debug\Kinect_yoga.exe
+C:\Users\Valadez\documents\visual studio 2015\Projects\Kinect_yoga\Kinect_yoga\obj\Debug\Kinect_yoga.pdb
+C:\Users\Valadez\documents\visual studio 2015\Projects\Kinect_yoga\Kinect_yoga\obj\Debug\Kinect_yoga_Content.g.cs
+C:\Users\Valadez\documents\visual studio 2015\Projects\Kinect_yoga\Kinect_yoga\bin\Debug\Música de relajación - Concentración - Yoga - Para documentales Cortos.wav
